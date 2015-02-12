@@ -3,14 +3,10 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.jpostdesign.amazing"
+        id        = "com.jpost-design.amazing"
         version   = "1.0.0">
 
-<<<<<<< HEAD
     <name>Hello World</name>
-=======
-    <name>New XML - JPost Design First App</name>
->>>>>>> 70763d9686047fe5f8a688706632a51639380cac
 
     <description>
         Hello World sample application that responds to the deviceready event.
